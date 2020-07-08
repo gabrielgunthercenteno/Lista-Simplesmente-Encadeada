@@ -1,4 +1,4 @@
-# Lista-Simplesmente-Encadeada
+# Lista Simplesmente Encadeada
 
 Projeto de Estrutura de Dados da disciplina de linguagem de Programação 2  
 
